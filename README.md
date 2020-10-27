@@ -12,11 +12,8 @@ pip install symspellpy
 ```
 
 ## Usage
-
-```console
 Program to buid the dictionary:
 Specify the input path of documents and the output path where word dictionary is stored
 ```
 build_dictionary.py
-```
 ```
