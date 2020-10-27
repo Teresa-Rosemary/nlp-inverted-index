@@ -7,11 +7,7 @@ Implementing an inverted index of a large collection of documents
 ```console
 # install the requirements
 pip install psutil
-
 pip install nltk
-
-pip install nltk
-
 pip install symspellpy
 ```
 
