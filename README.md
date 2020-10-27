@@ -2,27 +2,12 @@
 Implementing an inverted index of a large collection of documents
 
 ## Description
-All the input dataset files are preprocessed.
+Normalized tokens are produced through following processes: - <br>
 
-
-Following cleansing actions are undertaken:-
-```
 Correcting Accented Characters
-```
-
-```
 Stemming
-```
-
-```
 Lemmatization
-```
-
-```
 Dropping Stop words
-```
-
-
 
 ## Installation
 
