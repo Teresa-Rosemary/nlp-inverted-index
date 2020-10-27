@@ -29,9 +29,13 @@ pip install symspellpy
 Program to build the dictionary.
 
 Specify the following paths: - 
+
 1. Input path of documents
+
 	Line #92: 'C:\SparkChallenge\Dataset\*'
+	
 2. Output path to generate word dictionary
+
 	Line #112: 'C:\SparkChallenge\Output\Dictionary\*'
 
 ```Py Spark
@@ -41,7 +45,9 @@ build_dictionary.py
 Program to build the inverted index.
 
 Specify the below path: - 
+
 Output path to generate word dictionary
+
 	Line #6: 'C:\SparkChallenge\Output\InvertedIndex\*'
 
 ```Py Spark
