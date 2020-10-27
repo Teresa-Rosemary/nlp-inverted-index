@@ -34,7 +34,7 @@ Specify the following paths: -
 
 	Line #92: 'C:\SparkChallenge\Dataset\*'
 	
-2. Output path to generate word dictionary
+2. Output path to generate the word dictionary
 
 	Line #112: 'C:\SparkChallenge\Output\Dictionary\*'
 
@@ -46,7 +46,7 @@ Program to build the inverted index.
 
 Specify the below path: - 
 
-Output path to generate word dictionary
+Output path to generate the inverted index
 
 	Line #6: 'C:\SparkChallenge\Output\InvertedIndex\*'
 
