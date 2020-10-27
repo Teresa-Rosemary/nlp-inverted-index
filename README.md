@@ -32,11 +32,11 @@ Specify the following paths: -
 
 1. Input path of documents
 
-	Line #92: 'C:\SparkChallenge\Dataset\*'
+   Line #92: 'C:\SparkChallenge\Dataset\*'
 	
 2. Output path to generate the word dictionary
 
-	Line #112: 'C:\SparkChallenge\Output\Dictionary\*'
+   Line #112: 'C:\SparkChallenge\Output\Dictionary\*'
 
 ```Py Spark
 build_dictionary.py
@@ -48,8 +48,8 @@ Specify the below path: -
 
 Output path to generate the inverted index
 
-	Line #6: 'C:\SparkChallenge\Output\InvertedIndex\*'
-
+Line #112: 'C:\SparkChallenge\Output\InvertedIndex\*'
+	
 ```Py Spark
 build_inverted_index.py
 ```
