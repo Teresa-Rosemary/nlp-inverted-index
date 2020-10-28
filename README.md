@@ -50,14 +50,16 @@ optional arguments:
 
 Program to build the inverted index.
 
-Specify the below path: - 
-
-Output path to generate the inverted index
-
-Line #112: 'C:\SparkChallenge\Output\InvertedIndex\*'
-	
 ```Py Spark
-build_inverted_index.py
+spark-submit build_inverted_index.py --h
+usage: build_dictionary.py [-h] inpath outpath
+
+positional arguments:
+  inpath      filepath of the input documents
+  outpath     filepath of the output word dictionary
+
+optional arguments:
+  -h, --help  show this help message and exit
 ```
 
 ## Test
