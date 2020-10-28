@@ -1,5 +1,5 @@
 # nlp-inverted-index
-Implementing an inverted index of a large collection of documents
+Implementing an inverted index of a large collection of documents.
 
 ## Description
 Inverted index is build in two stages. <br>
