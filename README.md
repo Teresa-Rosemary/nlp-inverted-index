@@ -14,7 +14,7 @@ Inverted index is build in two stages. <br>
     Dropping stop words <br>
     Spell check <br>
     
-2. Build the inverted index that gives the words with the list of documents it appears in
+2. Build the inverted index that gives the words with the list of documents it appears in.
 
 ## Installation
 
