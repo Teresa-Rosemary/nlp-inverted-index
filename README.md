@@ -34,29 +34,16 @@ pip install symspellpy
 ```
 
 ## Usage
-Program to build the dictionary.
+Program to build the Dictionary of Words and Inverted Index.
 
 ```Py Spark
-spark-submit build_dictionary.py --h
-usage: build_dictionary.py [-h] inpath outpath
+spark-submit dictionary_and_invertedindex.py -h
+usage: dictionary_and_invertedindex.py [-h] inpath dictpath indexpath
 
 positional arguments:
   inpath      filepath of the input documents
-  outpath     filepath of the output word dictionary
-
-optional arguments:
-  -h, --help  show this help message and exit
-```
-
-Program to build the inverted index.
-
-```Py Spark
-spark-submit build_inverted_index.py --h
-usage: build_dictionary.py [-h] inpath outpath
-
-positional arguments:
-  inpath      filepath of the input documents
-  outpath     filepath of the output word dictionary
+  dictpath    filepath of the output word dictionary
+  indexpath   filepath of the output inverted index
 
 optional arguments:
   -h, --help  show this help message and exit
