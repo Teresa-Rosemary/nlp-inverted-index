@@ -37,7 +37,7 @@ pip install symspellpy
 Program to build the dictionary.
 
 ```Py Spark
-spark-submit build_dictionary.py --h
+
 c:\SparkCourse>spark-submit build_dictionary.py --h
 usage: build_dictionary.py [-h] inpath outpath
 
