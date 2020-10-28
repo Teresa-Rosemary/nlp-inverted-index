@@ -19,9 +19,15 @@ Inverted index is build in two stages. <br>
 ## Installation
 
 ```console
-# Pre-requisites
+# Install psutil
 pip install psutil
+# Install nltk
 pip install nltk
+# Download Wordnet through NLTK in python console:
+import nltk
+nltk.download('wordnet')
+nltk.download('stopwords)
+# Install symspellspy
 pip install symspellpy
 ```
 
