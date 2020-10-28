@@ -52,7 +52,7 @@ Example: spark-submit dictionary_and_invertedindex.py C:\Spark\challenges-data-e
 
 ## Output
 
-Output executed against the documents in the "datset" folder is available in below folders:-
+Output executed (execution took around 4 mins in my local) against the documents in the "datset" folder is available in below folders:-
 
 Dictionary of words - "Word_Dictionary"
 
