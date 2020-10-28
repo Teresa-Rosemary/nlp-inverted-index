@@ -47,6 +47,5 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-  
-Example: C:\Spark\challenges-data-engineer\dataset C:\Spark\word_dictionary C:\Spark\inverted_index
 ```
+Example: spark-submit dictionary_and_invertedindex.py C:\Spark\challenges-data-engineer\dataset C:\Spark\word_dictionary C:\Spark\inverted_index
