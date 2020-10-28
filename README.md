@@ -51,7 +51,10 @@ optional arguments:
 Example: spark-submit dictionary_and_invertedindex.py C:\Spark\challenges-data-engineer\dataset C:\Spark\word_dictionary C:\Spark\inverted_index
 
 ## Output
+
+```console
 Output executed against the documents in the "datset" folder is available in below folders:-
 
 Dictionary of words - "Word_Dictionary"
 Inverted Index - "Inverted_Index"
+```
