@@ -62,4 +62,5 @@ optional arguments:
   -h, --help  show this help message and exit
 ```
 
-## Test
+## Conclusion
+Pre-processing steps helped to clean the text and get better quality results.
