@@ -64,3 +64,7 @@ optional arguments:
 
 ## Conclusion
 Pre-processing steps helped to clean the text and get better quality results.
+
+#### References
+    "- Dan Jurafsky - Speech and Language Processing - Textbook\n",
+    "- This auto-correct explanation was first done by Peter Norvig in 2007 "
