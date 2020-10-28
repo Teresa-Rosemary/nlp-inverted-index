@@ -24,10 +24,10 @@ pip install psutil
 
 # Install nltk
 pip install nltk
-# Download Wordnet through NLTK in python console:
+# Download wordnet and stopwords through NLTK in python console:
 import nltk
 nltk.download('wordnet')
-nltk.download('stopwords)
+nltk.download('stopwords')
 
 # Install symspellspy
 pip install symspellpy
@@ -61,11 +61,3 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
-
-## Conclusion
-Pre-processing steps helped to clean the text and get better quality results.
-
-#### References
-    "- Dan Jurafsky - Speech and Language Processing - Textbook\n",
-    "- This auto-correct explanation was first done by Peter Norvig in 2007 "
-    [Link to Google](https://www.google.com)
