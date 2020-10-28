@@ -25,7 +25,7 @@ inpath = args.inpath + "/*"
 dictpath = args.dictpath
 indexpath = args.indexpath
 
-conf = SparkConf().setMaster("local[*]").setAppName("BuildDictandInvertedIndex")
+conf = SparkConf().setMaster("local").setAppName("BuildDictandInvertedIndex")
 sc = SparkContext(conf =conf)
 
 # Create an instance WordnetLemmatizer which is used for lemmatizing words
